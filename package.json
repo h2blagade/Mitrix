@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/h2blagade/Mitrix/issues"
   },
-  "homepage": "https://github.com/h2blagade/Mitrix#readme"
+  "homepage": "https://github.com/h2blagade/Mitrix#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
