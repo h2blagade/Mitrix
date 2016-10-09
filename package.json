@@ -1,0 +1,19 @@
+{
+  "name": "mitrix",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h2blagade/Mitrix.git"
+  },
+  "author": "h2bl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h2blagade/Mitrix/issues"
+  },
+  "homepage": "https://github.com/h2blagade/Mitrix#readme"
+}
